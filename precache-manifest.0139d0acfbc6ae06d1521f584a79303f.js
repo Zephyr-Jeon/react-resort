@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6dfe3b4452ef71339a4632f41ec3a3f",
+    "revision": "150950cd138df6f3761f6bcc46d1ad4f",
     "url": "/github.io/react-resort/index.html"
   },
   {
-    "revision": "543edaa3346ba7cdb420",
+    "revision": "73e2973265a11a94e232",
     "url": "/github.io/react-resort/static/css/main.59201461.chunk.css"
   },
   {
-    "revision": "d2797b990d60d9ae5e1b",
-    "url": "/github.io/react-resort/static/js/2.2b9a578f.chunk.js"
+    "revision": "8545b73df509d5582df6",
+    "url": "/github.io/react-resort/static/js/2.95841fac.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/github.io/react-resort/static/js/2.2b9a578f.chunk.js.LICENSE.txt"
+    "url": "/github.io/react-resort/static/js/2.95841fac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "543edaa3346ba7cdb420",
-    "url": "/github.io/react-resort/static/js/main.84f727e1.chunk.js"
+    "revision": "73e2973265a11a94e232",
+    "url": "/github.io/react-resort/static/js/main.dacfdb01.chunk.js"
   },
   {
     "revision": "ba8e0b5c278734479bbf",
